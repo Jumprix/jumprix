@@ -1,0 +1,131 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/jumprix/MoveAround-repository
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/salvodanna/MoveAround-repository.git/'
+> git check-ignore -v -z --stdin
+> git show --textconv :server/index.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/index.js
+> git check-ignore -v -z --stdin
+> git config --local branch.main_giampiero.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git show --textconv :server/package.json
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/package.json
+> git show --textconv :server/index.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/index.js
+> git show --textconv :server/package.json
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/package.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server/routes/posts.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/routes/posts.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server/index.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/index.js
+> git show --textconv :server/routes/posts.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/routes/posts.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server/index.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/index.js
+> git show --textconv :server/routes/posts.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/routes/posts.js
+> git show --textconv :server/index.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server/routes/posts.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/routes/posts.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server/controllers/posts.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/controllers/posts.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server/routes/posts.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/routes/posts.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server/controllers/posts.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/controllers/posts.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server/routes/posts.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/routes/posts.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :server/models/postMessage.js
+> git ls-files --stage -- /home/jumprix/MoveAround-repository/server/models/postMessage.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

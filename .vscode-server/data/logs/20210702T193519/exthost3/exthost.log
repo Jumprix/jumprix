@@ -1,0 +1,38 @@
+[2021-07-02 19:47:04.499] [exthost] [info] extension host started
+[2021-07-02 19:47:04.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-02 19:47:04.648] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/debug-auto-launch/dist/extension
+[2021-07-02 19:47:04.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-02 19:47:04.656] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/git/dist/main
+[2021-07-02 19:47:04.697] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-07-02 19:47:04.697] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/extensions/github.vscode-pull-request-github-0.27.1/dist/extension
+[2021-07-02 19:47:04.754] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-07-02 19:47:04.754] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-07-02 19:47:05.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-02 19:47:05.098] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/github/dist/extension.js
+[2021-07-02 19:47:05.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-02 19:47:05.199] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-02 19:47:05.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-02 19:47:05.212] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-02 19:47:05.218] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-02 19:47:05.218] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-02 19:47:05.219] [exthost] [info] eager extensions activated
+[2021-07-02 19:47:05.406] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4282
+[2021-07-02 19:47:06.419] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-02 19:47:06.420] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-02 19:47:06.641] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4282
+[2021-07-02 19:47:08.111] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4282
+[2021-07-02 19:47:13.217] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4282
+[2021-07-02 19:47:18.307] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4282
+[2021-07-02 19:47:23.396] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4282
+[2021-07-02 19:47:25.539] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-07-02 19:47:25.554] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.s [as canceled] (/home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at d._remoteCall (/home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/out/vs/server/remoteExtensionHostProcess.js:88:12889)
+	at Proxy.w.<computed>.y.charCodeAt.w.<computed> (/home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/out/vs/server/remoteExtensionHostProcess.js:88:9409)
+	at y.resolveProxy (/home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/out/vs/server/remoteExtensionHostProcess.js:88:36301)
+	at Object.resolveProxy (/home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/out/vs/server/remoteExtensionHostProcess.js:93:57260)
+	at useProxySettings (/home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node_modules/vscode-proxy-agent/out/index.js:159:16)
+	at /home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node_modules/vscode-proxy-agent/out/index.js:107:13
+	at /home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node_modules/vscode-proxy-agent/out/index.js:335:13
+	at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2021-07-02 19:47:26.550] [exthost] [info] exiting with code 0

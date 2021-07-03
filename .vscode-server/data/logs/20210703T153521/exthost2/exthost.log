@@ -1,0 +1,27 @@
+[2021-07-03 15:36:41.266] [exthost] [info] extension host started
+[2021-07-03 15:36:41.436] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-07-03 15:36:41.436] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/extension-editing/dist/extensionEditingMain
+[2021-07-03 15:36:41.458] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-07-03 15:36:41.458] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/markdown-language-features/dist/extension
+[2021-07-03 15:36:41.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-03 15:36:41.500] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/debug-auto-launch/dist/extension
+[2021-07-03 15:36:41.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-03 15:36:41.503] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/git/dist/main
+[2021-07-03 15:36:41.594] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-07-03 15:36:41.594] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/extensions/github.vscode-pull-request-github-0.27.1/dist/extension
+[2021-07-03 15:36:41.703] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-07-03 15:36:41.703] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-07-03 15:36:42.322] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-03 15:36:42.322] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/github/dist/extension.js
+[2021-07-03 15:36:42.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-03 15:36:42.465] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-03 15:36:42.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-03 15:36:42.496] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-03 15:36:42.509] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-03 15:36:42.509] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-03 15:36:42.512] [exthost] [info] eager extensions activated
+[2021-07-03 15:36:42.945] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1791
+[2021-07-03 15:36:44.232] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-03 15:36:44.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jumprix/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-03 15:37:49.061] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-07-03 15:37:50.089] [exthost] [info] exiting with code 0

@@ -1,0 +1,28 @@
+[Info] /home/jumprix/.ssh/config: ENOENT: no such file or directory, open '/home/jumprix/.ssh/config'
+[Info] Registering git provider
+[Info] Looking for git repository
+[Info] Found 1 repositories during activation
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] No remote with name 'upstream' found.
+[Info] Found GitHub remote
+[Info] Unable to resolve remote: HttpError: Not Found
+[Info] Review> no matching pull request metadata found for current branch branch_giampiero
+[Info] Missing upstream check failed: HttpError: Not Found
+[Info] GithubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'salvodanna/MoveAround-repository'.
+[Info] GithubRepository> Unable to fetch issues: Error: GraphQL error: Could not resolve to a Repository with the name 'salvodanna/MoveAround-repository'.
+[Info] GitHubRepository> Fetching pull requests for branch failed: HttpError: Not Found
+[Info] Review> no matching pull request metadata found on GitHub for current branch branch_giampiero
+[Info] GithubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'salvodanna/MoveAround-repository'.
+[Info] GithubRepository> Unable to fetch issues with query: Error: GraphQL error: Could not resolve to a Repository with the name 'salvodanna/MoveAround-repository'.
+[Info] GithubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'salvodanna/MoveAround-repository'.
+[Info] GithubRepository> Unable to fetch issues without milestone: Error: GraphQL error: Could not resolve to a Repository with the name 'salvodanna/MoveAround-repository'.
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] No remote with name 'upstream' found.
+[Info] Found GitHub remote
+[Info] Unable to resolve remote: HttpError: Not Found
+[Info] Review> no matching pull request metadata found for current branch main_giampiero
+[Info] GitHubRepository> Fetching pull requests for branch failed: HttpError: Not Found
+[Info] Review> no matching pull request metadata found on GitHub for current branch main_giampiero

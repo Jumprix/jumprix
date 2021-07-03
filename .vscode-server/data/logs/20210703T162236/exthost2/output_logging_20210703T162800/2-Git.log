@@ -1,0 +1,31 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/jumprix/MoveAround-repository
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/branch_giampiero refs/remotes/branch_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/salvodanna/MoveAround-repository.git/'
+> git config --local branch.branch_giampiero.github-pr-owner-number
+> git log --oneline --cherry branch_giampiero...branch_giampiero@{upstream} --
+> git pull --tags origin branch_giampiero
+remote: Repository not found.
+fatal: repository 'https://github.com/salvodanna/MoveAround-repository.git/' not found
+> git checkout -q main_giampiero
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main_giampiero refs/remotes/main_giampiero
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.main_giampiero.github-pr-owner-number

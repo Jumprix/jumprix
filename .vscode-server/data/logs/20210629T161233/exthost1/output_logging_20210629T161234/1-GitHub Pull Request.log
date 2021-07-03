@@ -1,0 +1,8 @@
+[Info] /home/jumprix/.ssh/config: ENOENT: no such file or directory, open '/home/jumprix/.ssh/config'
+[Info] Registering git provider
+[Info] Looking for git repository
+[Info] Found 1 repositories during activation
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] Cannot updates repositories as git is uninitialized
